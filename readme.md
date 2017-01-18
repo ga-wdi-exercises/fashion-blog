@@ -18,5 +18,5 @@ Add CSS to the page so that, when viewed in a browser, it looks like this...
 ![goal](./Fashion_Blog.png)
 
 ### Bonus
-- Google <footer> </footer> tag and implement the page footer.
-- Add Google Fonts.
+- Use `<header>` and `<footer>` tags.
+- Use [Google Fonts](https://fonts.google.com/).
